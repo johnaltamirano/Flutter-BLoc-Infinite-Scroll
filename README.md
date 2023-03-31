@@ -1,16 +1,4 @@
 # infinite_scroll
+![infinite_scroll](https://user-images.githubusercontent.com/129541862/229213435-401ec02b-e1fa-4262-ae83-04c7a7140045.gif)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+created by @johnaltamirano
